@@ -18,7 +18,7 @@ The objective of this project was to build a comprehensive dashboard to track ke
 ### 🏠 Home View
 The navigation hub for the entire report. It provides a summary of the most critical KPIs: **RevPAR, ADR, Occupancy %, and Realization %**.
 *(Add image_bbe4db.png here)*
-![](image/home_overview.PNG)
+![](home_overview1.png)
 ### 📈 Trend Analysis
 Displays weekly and monthly trends for key metrics. 
 * **Insight:** RevPAR and Occupancy show significant fluctuations, while ADR remains suspiciously flat.
