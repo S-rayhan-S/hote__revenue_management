@@ -17,17 +17,17 @@ The objective of this project was to build a comprehensive dashboard to track ke
 
 ### 🏠 Home View
 The navigation hub for the entire report. It provides a summary of the most critical KPIs: **RevPAR, ADR, Occupancy %, and Realization %**.
-*(Add image_bbe4db.png here)*
+
 ![](home_overview1.png)
 ### 📈 Trend Analysis
 Displays weekly and monthly trends for key metrics. 
 * **Insight:** RevPAR and Occupancy show significant fluctuations, while ADR remains suspiciously flat.
-*(Add image_bbe1d1.png here)*
+![](revPar_Occupency_ADR.png)
 
 ### 🏨 Property Performance
 A granular view of individual hotel performance.
 * **Insight:** A clear correlation exists between low average customer ratings and low occupancy levels.
-*(Add image_bbe47e.png here)*
+![](rating_vs_occupency_ralation.PNG)
 
 
 ## 🧩 Key Hospitality Metrics (KPIs)
